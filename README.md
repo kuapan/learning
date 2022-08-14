@@ -1,2 +1,2 @@
 # Learning
-เริ่มต้นการใช้งาน Github สำหรับ Project ครับผม
+เริ่มต้นการใช้งาน Github สำหรับ Project
